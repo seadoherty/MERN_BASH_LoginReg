@@ -1,4 +1,4 @@
-# MERN_BASH_LoginReg
+# MERN BASH Registration and Login
 
 Bash script to create a MERN stack with a starter login and registration\
 Run the code below from terminal (ensure bash files are executable)
