@@ -4,7 +4,7 @@ cd $PROJECT_FOLDER/
 npm update
 echo "${green}>>> npm updated in $PROJECT_FOLDER/${reset}"
 
-cd client/
+cd $PROJECT_NAME/
 npm update
 echo "${green}>>> npm updated in $PROJECT_FOLDER/$PROJECT_NAME/${reset}"
 
